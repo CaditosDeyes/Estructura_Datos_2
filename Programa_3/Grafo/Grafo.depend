@@ -1,0 +1,33 @@
+# depslib dependency file v1.0
+1648856810 source:c:\users\chris\onedrive\escritorio\grafo\main.cpp
+	<iostream>
+	"grafo.h"
+	<windows.h>
+
+1648854883 source:c:\users\chris\onedrive\escritorio\grafo\src\grafo.cpp
+	"grafo.h"
+	<iostream>
+	<sstream>
+	<fstream>
+	<iomanip>
+
+1648854883 c:\users\chris\onedrive\escritorio\grafo\include\grafo.h
+	<iostream>
+	<fstream>
+
+1648860412 source:c:\users\djcar\downloads\est. datos 2\programas\grafo\main.cpp
+	<iostream>
+	"grafo.h"
+	<windows.h>
+
+1648858484 c:\users\djcar\downloads\est. datos 2\programas\grafo\include\grafo.h
+	<iostream>
+	<fstream>
+
+1648858484 source:c:\users\djcar\downloads\est. datos 2\programas\grafo\src\grafo.cpp
+	"grafo.h"
+	<iostream>
+	<sstream>
+	<fstream>
+	<iomanip>
+

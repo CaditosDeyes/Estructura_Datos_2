@@ -1,0 +1,1 @@
+Guadalajara|DF|300*Guadalajara|Zacatecas|200*Guadalajara|Los Cabos|400*Puebla|Michoacan|100*Puebla|DF|300*DF|Los Cabos|200*Zacatecas|Puebla|300*Zacatecas|Los Cabos|200*Michoacan|Guadalajara|400*Michoacan|DF|300*Los Cabos|Michoacan|300*$
