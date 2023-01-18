@@ -1,0 +1,45 @@
+# depslib dependency file v1.0
+1652064862 source:j:\udg kevin\semestre 3\est. datos 2\programas\indices_y_serializaciones\src\data.cpp
+	"data.h"
+
+1652066408 j:\udg kevin\semestre 3\est. datos 2\programas\indices_y_serializaciones\include\data.h
+	<iostream>
+	<iomanip>
+
+1652065946 source:j:\udg kevin\semestre 3\est. datos 2\programas\indices_y_serializaciones\main.cpp
+	<iostream>
+	"data.h"
+	"hash.h"
+
+1652066122 j:\udg kevin\semestre 3\est. datos 2\programas\indices_y_serializaciones\include\hash.h
+	<iostream>
+	<list>
+	<cstring>
+	<fstream>
+	"data.h"
+
+1652066274 source:j:\udg kevin\semestre 3\est. datos 2\programas\indices_y_serializaciones\src\hash.cpp
+	"hash.h"
+
+1652065024 source:c:\users\djcar\downloads\est. datos 2\programas\indices_y_serializaciones\main.cpp
+	<iostream>
+	"data.h"
+	"hash.h"
+
+1652062808 c:\users\djcar\downloads\est. datos 2\programas\indices_y_serializaciones\include\data.h
+	<iostream>
+	<iomanip>
+
+1652062522 c:\users\djcar\downloads\est. datos 2\programas\indices_y_serializaciones\include\hash.h
+	<iostream>
+	<list>
+	<cstring>
+	<fstream>
+	"data.h"
+
+1652061262 source:c:\users\djcar\downloads\est. datos 2\programas\indices_y_serializaciones\src\data.cpp
+	"data.h"
+
+1652062674 source:c:\users\djcar\downloads\est. datos 2\programas\indices_y_serializaciones\src\hash.cpp
+	"hash.h"
+
